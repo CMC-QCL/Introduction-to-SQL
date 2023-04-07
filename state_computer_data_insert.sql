@@ -1,4 +1,4 @@
-INSERT INTO state_computer_data (State,Persons_per_Household,Households_with_computer,Households_with_Internet) 
+INSERT INTO state_computer_data (State,Persons_per_Household,Households_with_computer,Households_with_internet) 
 VALUES('Alaska',2.8,94.1,85.5),
 	 ('Arizona',2.68,91.7,84.1),
 	 ('Arkansas',2.52,86.2,73.0),
